@@ -23,7 +23,7 @@ export function Footer() {
                 alt="Happy Spanish Logo"
                 width={40}
                 height={40}
-                className="w-10 h-10 object-contain transition-transform duration-300 group-hover:scale-105 active:scale-95 brightness-0 invert"
+                className="w-10 h-10 object-contain transition-transform duration-300 group-hover:scale-105 active:scale-95"
               />
               <span className="font-[family-name:var(--font-display)] text-xl text-white">
                 HAPPY SPANISH
